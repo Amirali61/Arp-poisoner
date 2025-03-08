@@ -31,14 +31,14 @@ Additionally, ensure that you have the necessary permissions to run network snif
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/arp-spoofing-sniffer.git
-    cd arp-spoofing-sniffer
+    git clone https://github.com/Amirali61/Arp-poisoner
+    cd Arp-poisoner
     ```
 
 2. Run the script:
 
     ```bash
-    python arp_spoof_sniffer.py
+    python arp-poison.py
     ```
 
 3. Input the following when prompted:
