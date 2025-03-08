@@ -31,7 +31,7 @@ Additionally, ensure that you have the necessary permissions to run network snif
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Amirali61/Arp-poisoner
+    git https://github.com/Amirali61/Arp-poisoner.git
     cd Arp-poisoner
     ```
 
